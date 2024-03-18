@@ -1,3 +1,3 @@
-![image](https://github.com/davl0u/davsAutoTable/assets/150683483/eb56553f-7387-4b8b-a326-5cbf9bb61762)
+This is a photo of the multiplication Table, showing its UI.
 
-![image](https://github.com/davl0u/davsAutoTable/assets/150683483/cb9f16a6-605e-4e24-865b-bd2e1c51ccf8)
+![autoTablePhoto](https://github.com/davl0u/davsAutoTable/assets/150683483/fcc38f3e-ff80-4115-bb6b-aecfb0d9a487)
